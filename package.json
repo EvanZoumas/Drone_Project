@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "express": "4.17.3",
+    "readline": "^1.3.0"
+  },
+  "name": "package",
+  "description": "A task to control and program a drone tehee yes.",
+  "version": "1.0.0",
+  "main": "telloEvan",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanZoumas/Drone_Project.git"
+  },
+  "author": "Evan Zoumas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanZoumas/Drone_Project/issues"
+  },
+  "homepage": "https://github.com/EvanZoumas/Drone_Project#readme"
+}
